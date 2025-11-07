@@ -8,6 +8,11 @@ https://github.com/IES-Rafael-Alberti/2526-u1-u2-2-5-ahorcado-jvazlop/blob/380cb
 
 https://github.com/IES-Rafael-Alberti/2526-u1-u2-2-5-ahorcado-jvazlop/blob/e0162f851ef8164f35a7f8a22bbd4869ea6629b2/src/ahorcado.py#L56-L74
 
+## PRUEBAS DE EJEMPLO DE DEBUG
+
+https://github.com/IES-Rafael-Alberti/2526-u1-u2-2-5-ahorcado-jvazlop/blob/17e1b5edea58f04ff60be76af58aa6619b6b2539/capturas/Captura%20de%20pantalla_2025-11-07_09-50-33.png
+
+
 
 ## Descripción
 El juego del "ahorcado" es un juego de lápiz y papel, en el que el objetivo es adivinar una palabra. Un jugador piensa una palabra y el otro jugador debe ir diciendo letras que cree que puede contener la palabra. Si acierta, se escriben todas las letras coincidentes. Si la letra no está, se resta un intento, agregando una parte al cuerpo (cabeza, brazo, etc.) hasta que queda dibujado todo el cuerpo del "ahorcado".
