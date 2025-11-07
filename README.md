@@ -1,4 +1,16 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/8lAzcOMh)
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=21506636&assignment_repo_type=AssignmentRepo)
 # Práctica: El Juego del Ahorcado
+
+## PRUEBAS DE DOCUMENTACION
+
+https://github.com/IES-Rafael-Alberti/2526-u1-u2-2-5-ahorcado-jvazlop/blob/380cbc52a09c455f6a5797a89c89e7bf537f13d6/src/ahorcado.py#L26-L39
+
+https://github.com/IES-Rafael-Alberti/2526-u1-u2-2-5-ahorcado-jvazlop/blob/e0162f851ef8164f35a7f8a22bbd4869ea6629b2/src/ahorcado.py#L56-L74
+
+## PRUEBAS DE EJEMPLO DE DEBUG
+
+https://github.com/IES-Rafael-Alberti/2526-u1-u2-2-5-ahorcado-jvazlop/tree/e02e7920229677150e4c0df6c03651526ccad8ba/capturas
 
 ## Descripción
 El juego del "ahorcado" es un juego de lápiz y papel, en el que el objetivo es adivinar una palabra. Un jugador piensa una palabra y el otro jugador debe ir diciendo letras que cree que puede contener la palabra. Si acierta, se escriben todas las letras coincidentes. Si la letra no está, se resta un intento, agregando una parte al cuerpo (cabeza, brazo, etc.) hasta que queda dibujado todo el cuerpo del "ahorcado".
